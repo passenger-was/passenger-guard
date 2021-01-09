@@ -5,7 +5,7 @@ const request = require("request");
 
 //tokenı .env klasörüne girin.
 
-const dokunma = [''];
+const dokunma = ['550753232767418389'];
 const sunucu = "797106730181591101"; 
 
 const strigaban = '797178964887601172'// RAPOR VERMESİ İÇİN LOG ID
